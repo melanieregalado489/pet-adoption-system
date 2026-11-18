@@ -33,6 +33,5 @@ page_header('Login');
   <?php if ($error): ?><p class="err"><?= e($error) ?></p><?php endif; ?>
   <button>Log in</button>
   <p>New here? <a href="register.php">Sign up</a></p>
-  <p class="hint">Admin demo: admin@pawheart.ph / admin123</p>
 </form>
 <?php page_footer();
