@@ -1,0 +1,6 @@
+# Para makapag-upload ng ID hanggang 5MB (gumagana kung mod_php ang gamit, tulad ng XAMPP)
+<IfModule mod_php.c>
+  php_value upload_max_filesize 6M
+  php_value post_max_size 8M
+</IfModule>
+Options -Indexes

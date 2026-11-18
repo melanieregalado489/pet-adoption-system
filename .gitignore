@@ -1,0 +1,5 @@
+storage/ids/*
+!storage/ids/.htaccess
+!storage/ids/index.html
+uploads/pets/*
+!uploads/pets/.gitkeep
