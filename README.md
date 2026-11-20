@@ -20,3 +20,14 @@ Web-based pet adoption system built with PHP and MySQL.
 
 ## Technologies
 PHP, MySQL, HTML, CSS, JavaScript, Git and GitHub
+
+## Screenshots
+
+### Home page
+![Home page](screenshots/home.png)
+
+### Adoption form with ID upload
+![Adoption form](screenshots/adoption-form.png)
+
+### Admin viewing the submitted ID
+![Admin ID view](screenshots/admin-id-view.png)
